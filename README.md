@@ -1,6 +1,7 @@
 # HOW TO INSTALL 
 
 Go to your Tera Directory which should either be 
+
 STEAM:  C:\Program Files (x86)\Steam\steamapps\common\Tera
 STANDALONE:  C:\Users\Public\Games\En Masse Entertainment\TERA
 
