@@ -10,5 +10,12 @@ Now go to \Client\S1Game and create a folder called _CookedPC (you can theoretic
 
 Move the file there and done!
 
+:exclamation:People have mentiones that this does NOT work for them, if so go to;
+
+TERA\Client\S1Game\CookedPC\Art_Data\Packages
+
+
+and create a folder called _S1UI
+
 ![Alt text](https://i.imgur.com/Xu2BkQr.png?raw=true "Preview")
 
